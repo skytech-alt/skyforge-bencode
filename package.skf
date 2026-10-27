@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-bencode"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Кодирование и декодирование Bencode (BitTorrent)."
+    репозиторий = "github.com/skytech-alt/skyforge-bencode"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
